@@ -15,4 +15,4 @@ function shadowizeard(options) {
     }
   });
 }
-modules.exports.shadowizeard = shadowizeard;
+module.exports.shadowizeard = shadowizeard;
